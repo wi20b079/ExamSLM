@@ -60,7 +60,7 @@
         </plugins>
     </build>
 
-    <groupId>at.kienboeck</groupId>
+    <groupId>com.marta</groupId>
     <artifactId>UptimeCalculator</artifactId>
     <version>1.0-SNAPSHOT</version>
 
