@@ -18,7 +18,7 @@ public class RandomTest {
         RandomTest rt = new RandomTest();
 
         // Act
-        int result = rc.random();
+        int result = rc.randomNumber();
 
         // Assert
         Assertions.assertEquals(true, result <101);
@@ -30,7 +30,7 @@ public class RandomTest {
         RandomTest rt = new RandomTest();
 
         // Act
-        int result = rc.random();
+        int result = rc.randomNumber();
 
         // Assert
         Assertions.assertEquals(true, result >=0);
